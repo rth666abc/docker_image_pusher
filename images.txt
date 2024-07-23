@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jenkins/jenkins:2.414.2
 minio/mc
+xuxueli/xxl-job-admin:2.4.0
